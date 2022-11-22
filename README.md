@@ -2,7 +2,7 @@
 
 ## Usage
 
-### Create new project
+### Create new project (Coming soon)
 ```
 npx react-swc-script create project-name
 ```
